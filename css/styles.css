@@ -1,10 +1,13 @@
-header{
+header {
     background-color: deepskyblue;
 }
-h1{
+h1 {
     color: whitesmoke;
     text-align: center;
 }
-nav{
+nav {
     text-align: center;
+}
+footer {
+    background-color: deepskyblue;
 }
