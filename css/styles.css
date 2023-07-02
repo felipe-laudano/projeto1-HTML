@@ -16,17 +16,7 @@ section {
     background-color:#DEE5E5
 }
 
-.articles {
-    background-color: #DEE5E5;
-    /* width:auto; */
-}
-
-.articles article {
-    background-color: #9DC5BB;
-    margin: 5%;
-}
-
-.articles img {
+img {
     text-align: center;
     border-radius: 16px;
 }
@@ -35,7 +25,21 @@ h3 {
     font-size:xxx-large;
 }
 
+table {
+    background-color: #9DC5BB;
+}
+
 footer {
     text-align: center;
     background-color: #17B890;
 }
+
+.articles {
+    background-color: #DEE5E5;
+}
+
+.articles article {
+    background-color: #9DC5BB;
+    margin: 5%;
+}
+
