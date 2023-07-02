@@ -1,31 +1,41 @@
 header {
     background-color: #17B890;
-    color: white
-}
-
-#list-articles{
-    text-align: left;
-}
-
-html {
+    color: white;
     text-align: center;
 }
 
-.articles article{
-    margin: 0 auto;
-    background-color: #9DC5BB;
-    /* width: fit-content; */
+main {
+    margin: 5%;
+}
+
+h2 {
+    text-align: center;
+}
+
+section {
+    background-color:#DEE5E5
 }
 
 .articles {
     background-color: #DEE5E5;
-    width:auto;
+    /* width:auto; */
 }
 
-.articles h3 {
+.articles article {
+    background-color: #9DC5BB;
+    margin: 5%;
+}
+
+.articles img {
+    text-align: center;
+    border-radius: 16px;
+}
+
+h3 {
     font-size:xxx-large;
 }
 
 footer {
+    text-align: center;
     background-color: #17B890;
 }
