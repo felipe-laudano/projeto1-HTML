@@ -1,13 +1,31 @@
 header {
-    background-color: deepskyblue;
+    background-color: #17B890;
+    color: white
 }
-h1 {
-    color: whitesmoke;
+
+#list-articles{
+    text-align: left;
+}
+
+html {
     text-align: center;
 }
-nav {
-    text-align: center;
+
+.articles article{
+    margin: 0 auto;
+    background-color: #9DC5BB;
+    /* width: fit-content; */
 }
+
+.articles {
+    background-color: #DEE5E5;
+    width:auto;
+}
+
+.articles h3 {
+    font-size:xxx-large;
+}
+
 footer {
-    background-color: deepskyblue;
+    background-color: #17B890;
 }
